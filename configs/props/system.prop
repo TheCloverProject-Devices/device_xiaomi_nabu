@@ -16,6 +16,9 @@ debug.sf.enable_hwc_vds=1
 persist.vendor.color.matrix=2
 renderthread.skia.reduceopstasksplitting=false
 
+# Display
+debug.performance.tuning=1
+
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
 
