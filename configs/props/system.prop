@@ -22,6 +22,9 @@ ro.vendor.qti.va_aosp.support=1
 # Netflix
 ro.netflix.bsp_rev=Q855-16947-1
 
+# Render
+debug.cpurend.vsync=false
+
 # SSR
 persist.vendor.ssr.restart_level=ALL_ENABLE
 
