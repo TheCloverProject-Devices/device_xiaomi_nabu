@@ -14,6 +14,11 @@ ro.qc.sdk.audio.ssr=false
 tunnel.audio.encode = true
 use.voice.path.for.pcm.voip=true
 
+# Enable debugging
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.debuggable=1
+
 # radio
 ro.radio.noril=true
 
