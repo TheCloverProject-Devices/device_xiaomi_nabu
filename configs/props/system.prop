@@ -22,6 +22,12 @@ debug.performance.tuning=1
 # Fwk detect
 ro.vendor.qti.va_aosp.support=1
 
+# HWUI
+ro.hwui.render_ahead=3
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=40
+debug.hwui.render_thread_count=2
+
 # Netflix
 ro.netflix.bsp_rev=Q855-16947-1
 
