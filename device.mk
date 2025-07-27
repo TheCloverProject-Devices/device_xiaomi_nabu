@@ -30,7 +30,7 @@ $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 endif
 
 # Symlinks
-$(call inherit-product, device/xiaomi/nabu/symlink/targets.mk)
+$(call inherit-product, device/xiaomi/nabu/configs/symlink/targets.mk)
 
 # Shipping API level
 PRODUCT_SHIPPING_API_LEVEL := 30
